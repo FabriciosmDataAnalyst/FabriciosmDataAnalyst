@@ -9,9 +9,9 @@ Portfolio: https://fabriciosmdataanalyst.github.io/FabricioMelo/
 
 # Fabricio Melo
 
-### Data Analyst & BI Specialist · Power BI · Microsoft Fabric · AI Automation
+## Data Analyst & BI Specialist | Power BI | Microsoft Fabric | Databricks | Snowflake | SQL | Python | AI Automation
 
-📍 Goiâ¡ªnia, Goiás, Brazil · 🌎 Open to remote & international opportunities
+📍 Goiânia, Goiás, Brazil · 🌎 Open to remote & international opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciosmelo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fabriciosmdataanalyst.github.io/FabricioMelo/)
@@ -33,23 +33,44 @@ Data and Business Intelligence Analyst with 5+ years of experience transforming 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Data Stack
 
-**Data & BI**
+### Analytics & Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Data Engineering & Cloud
+
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
-**Automation & Development**
+### Python & Data Processing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### SQL & Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+
+### Automation & AI
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -57,10 +78,10 @@ Data and Business Intelligence Analyst with 5+ years of experience transforming 
 
 ## 📂 Featured Projects
 
-| Project | Description | Stack |
+| Project | Business Problem & Solution | Data Stack |
 |---|---|---|
-| [Portfolio Website](https://fabriciosmdataanalyst.github.io/FabricioMelo/) | Personal professional portfolio showcasing BI, data and automation projects | HTML · CSS · JavaScript |
-| [Lakehouse Perfumes](https://github.com/FabriciosmDataAnalyst/LakehousePerfumes) | Data project focused on lakehouse architecture and analytics | TypeScript · Data Engineering |
+| [Lakehouse Perfumes](https://github.com/FabriciosmDataAnalyst/LakehousePerfumes) | End-to-end analytical solution for a perfume retail scenario, covering data ingestion, transformation, lakehouse modeling and insights for business decision-making. | Databricks · PySpark · Delta Lake · SQL · Power BI |
+
 
 ---
 
@@ -71,17 +92,6 @@ Data and Business Intelligence Analyst with 5+ years of experience transforming 
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabriciosmDataAnalyst&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriciosmDataAnalyst&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
