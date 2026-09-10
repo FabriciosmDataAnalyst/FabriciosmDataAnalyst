@@ -1,8 +1,8 @@
 <!--
 README profissional para GitHub - Fabricio Melo
-Username: FabriciosmDataAnalyst
+Username: fab-data
 LinkedIn: https://www.linkedin.com/in/fabriciosmelo/
-Portfolio: https://fabriciosmdataanalyst.github.io/FabricioMelo/
+Portfolio: https://fab-data.github.io/FabricioMelo/
 -->
 
 <div align="center">
@@ -14,7 +14,7 @@ Portfolio: https://fabriciosmdataanalyst.github.io/FabricioMelo/
 📍 Goiânia, Goiás, Brazil · 🌎 Open to remote & international opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciosmelo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fabriciosmdataanalyst.github.io/FabricioMelo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fab-data.github.io/FabricioMelo/)
 
 </div>
 
@@ -80,7 +80,7 @@ Data and Business Intelligence Analyst with 5+ years of experience transforming 
 
 | Project | Business Problem & Solution | Data Stack |
 |---|---|---|
-| [Lakehouse Perfumes](https://github.com/FabriciosmDataAnalyst/LakehousePerfumes) | End-to-end analytical solution for a perfume retail scenario, covering data ingestion, transformation, lakehouse modeling and insights for business decision-making. | Databricks · PySpark · Delta Lake · SQL · Power BI |
+| [Lakehouse Perfumes](https://github.com/fab-data/LakehousePerfumes) | End-to-end analytical solution for a perfume retail scenario, covering data ingestion, transformation, lakehouse modeling and insights for business decision-making. | Databricks · PySpark · Delta Lake · SQL · Power BI |
 
 
 ---
